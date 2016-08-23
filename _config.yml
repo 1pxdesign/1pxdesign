@@ -16,3 +16,7 @@ github_username:  1pxdesign
 
 # Build settings
 markdown: kramdown
+permalink: /:categories/:title.html
+sass:
+    style: compressed
+    sass_dir: public/_sass
